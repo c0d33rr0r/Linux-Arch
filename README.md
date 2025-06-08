@@ -43,7 +43,7 @@ use terminal to use the new location keep random name and location every so ofte
 use terminal with new location, be carefull once you close the terminal you will have to reinstall.
 With the above only phisical use is really possible at this time it's all about up time.
 
-at this time you should be able to install a microsoft edge broser, set settings to complete privacy and turn on the default vpn. install malware bytes, privacy badger, ublock, i don't care about cookies, i still don't care about cookies, grammerly
+at this time you should be able to install a microsoft edge broser, set settings to complete privacy and turn on the default vpn. install malware bytes, privacy badger, ublock, i don't care about cookies, i still don't care about cookies, grammerly, adblock
 tor ghost | arch tor < name not known born with Ronald James Alliy aka James Auther Alliy jr 3 Thinking 4th>
 restart the browser.
 
