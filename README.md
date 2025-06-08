@@ -47,7 +47,7 @@ at this time you should be able to install a microsoft edge broser, set settings
 tor ghost | arch tor < name not known born with Ronald James Alliy aka James Auther Alliy jr 3 Thinking 4th>
 restart the browser.
 
-{Tor(Extentions<Edge vpn>Extentions)Tor}
+{Tor(Extentions[Edge vpn]Extentions)Tor}
 
 should offer 4 layers of protection
 
