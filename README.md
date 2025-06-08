@@ -55,3 +55,11 @@ self
 tor
 extentions
 edge vpn
+
+I perfer with arch, powershell-bin, visual-studio-code-bin, dotnet-core-bin, microsoft-edge-stable-bin Thats all one really needs..
+
+Try not to use alot of things for visual studio code......
+
+Happy coding
+
+Love unknownt
