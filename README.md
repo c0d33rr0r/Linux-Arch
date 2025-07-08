@@ -65,4 +65,10 @@ Try not to use alot of things for visual studio code......
 
 Happy coding
 
-Love unknownt
+Love unknown
+
+Please donate for the time and effort.
+
+![CashAppDonations](https://github.com/user-attachments/assets/f2380b66-784d-4208-abe8-fd60dc05b9c6)
+
+C0d33rr0r@outlook.com
