@@ -1,5 +1,8 @@
 # Linux-Arch
 
+![screen](https://github.com/user-attachments/assets/7c66d2b4-9a9b-4a04-8906-8d92ce948d4c)
+
+
 The way I use Linux.
 
 Grab a live boot
